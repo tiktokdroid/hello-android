@@ -1,4 +1,4 @@
-package io.github.tiktokdroid.helloandroid;
+package io.github.tiktokdroid.android.hello;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
